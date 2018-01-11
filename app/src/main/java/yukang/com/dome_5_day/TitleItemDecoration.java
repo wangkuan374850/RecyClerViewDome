@@ -42,7 +42,7 @@ public class TitleItemDecoration extends RecyclerView.ItemDecoration {
         mPaint.setAntiAlias(true);
         mInflater = LayoutInflater.from(context);
     }
-
+    //我在提交一次试试
     @Override
     public void onDraw(Canvas c, RecyclerView parent, RecyclerView.State state) {
         super.onDraw(c, parent, state);
