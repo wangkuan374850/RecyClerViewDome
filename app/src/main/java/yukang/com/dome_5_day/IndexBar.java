@@ -33,6 +33,7 @@ import java.util.List;
  * 邮箱：mcxtzhang@163.com
  * CSDN：http://blog.csdn.net/zxt0601
  * 时间： 16/09/04.
+ * 这里是我自己复制的，看起来也不是很难
  */
 
 public class IndexBar extends View {
